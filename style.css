@@ -8,6 +8,7 @@ body {
     letter-spacing: .5em;
     top: 25%;
     margin-top: 5%;
+    background-repeat: no-repeat;
 	background: linear-gradient(to right, rgb(210, 0, 0) , rgb(0, 15, 255)); /* Standard syntax */
 }
 
