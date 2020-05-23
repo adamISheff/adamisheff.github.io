@@ -21,9 +21,9 @@ body {
 
 /* Reduce Header Text Size for Small Screens */
 @media only screen and (max-width: 800px) {
-    #title {
-        font-size: small;
-        padding-bottom: 15%;
+    .title {
+        font-size: medium;
+        padding-bottom: 10%;
     }
 }
 
