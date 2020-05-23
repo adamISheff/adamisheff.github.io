@@ -19,6 +19,13 @@ body {
     }
 }
 
+/* Reduce Header Text Size for Small Screens */
+@media only screen and (max-width: 800px) {
+    #title {
+        font-size: small;
+    }
+}
+
 h1 {
     /* font: 600 3.5em 'Raleway', sans-serif; */
     font-size: 3.5em;
