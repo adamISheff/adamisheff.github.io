@@ -23,6 +23,7 @@ body {
 @media only screen and (max-width: 800px) {
     #title {
         font-size: small;
+        padding-bottom: 15%;
     }
 }
 
